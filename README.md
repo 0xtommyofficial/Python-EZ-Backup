@@ -34,4 +34,7 @@ This application automatically overwrites older files. If your selected input is
 
 This application is released under the MIT License. See [LICENSE](LICENSE) for more information.
 
+# Contributing
+If you would like to contribute to the personal finance data analysis tool, please fork the repository and create a pull request with your changes. I welcome contributions and am happy to review any changes.
+
 [ @0xtommyOfficial, molmez.io ]
